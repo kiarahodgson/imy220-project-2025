@@ -1,7 +1,6 @@
 <div align="center">
   <img src="mergelogo.png" alt="Merge Logo" width="200"/>
   
-  # 🪄 **Merge**
   ### IMY220 Project — 2025  
   _Project Management & Version Control Website_
 </div>
