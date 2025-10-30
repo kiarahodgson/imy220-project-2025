@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/merge-logo.png" alt="Merge Logo" width="200"/>
+</div>
+
 # imy220-project-2025
 # Welcome to Merge - my project management and version control website!
 
