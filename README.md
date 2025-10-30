@@ -20,16 +20,21 @@ This guide explains how to build and run the app using Docker across different o
 ```bash
 docker build -t merge-app .
 2️⃣ Run the container
-Replace '...' with your MongoDB Atlas connection string (ATLAS_URI).
-💻 macOS / Linux (bash/zsh)
+Replace '...' with your MongoDB Atlas connection string (ATLAS_URI) if necessary.
+
+💻 macOS / Linux (bash/zsh) (what I was using)
 docker run --rm -p 8081:3000 -e ATLAS_URI='...' -v "$(pwd)/backend/uploads:/app/backend/uploads" --name merge-app merge-app
+
 🪟 Windows PowerShell
 docker run --rm -p 8081:3000 -e ATLAS_URI='...' -v "${PWD}\backend\uploads:/app/backend/uploads" --name merge-app merge-app
+
 🪟 Windows CMD
 docker run --rm -p 8081:3000 -e ATLAS_URI="..." -v "%cd%\backend\uploads:/app/backend/uploads" --name merge-app merge-app
+
 🌐 Access the App
 Once the container is running, open your browser and navigate to:
-👉 http://localhost:8081
+👉 http://localhost:8081 ```
+
 
 🧩 Notes
 Ensure Docker Desktop is running before executing the commands.
