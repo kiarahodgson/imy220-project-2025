@@ -1,0 +1,216 @@
+[{
+  "_id": {
+    "$oid": "68def6c49becdb2ef73ad1f4"
+  },
+  "fromUserId": {
+    "$oid": "68dee5c66e8daa759a6e9776"
+  },
+  "toUserId": {
+    "$oid": "671d9f2a0000000000000002"
+  },
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2025-10-02T22:03:48.701Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T22:09:18.639Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68def87e4df6a503cba9ab32"
+  },
+  "fromUserId": {
+    "$oid": "671d9f2a0000000000000001"
+  },
+  "toUserId": {
+    "$oid": "68dee5c66e8daa759a6e9776"
+  },
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2025-10-02T22:11:10.207Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T22:11:53.959Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68df6997f5e301d0c4eab289"
+  },
+  "fromUserId": {
+    "$oid": "68dee5c66e8daa759a6e9776"
+  },
+  "toUserId": {
+    "$oid": "68def8964df6a503cba9ab33"
+  },
+  "status": "pending",
+  "createdAt": {
+    "$date": "2025-10-03T06:13:43.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T06:13:43.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68df6bdbf5e301d0c4eab28b"
+  },
+  "fromUserId": {
+    "$oid": "68dee5c66e8daa759a6e9776"
+  },
+  "toUserId": {
+    "$oid": "68df6a19f5e301d0c4eab28a"
+  },
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2025-10-03T06:23:23.463Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T09:36:12.604Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68df76c2f5e301d0c4eab28e"
+  },
+  "fromUserId": {
+    "$oid": "68dee5c66e8daa759a6e9776"
+  },
+  "toUserId": {
+    "$oid": "68df7688f5e301d0c4eab28d"
+  },
+  "status": "pending",
+  "createdAt": {
+    "$date": "2025-10-03T07:09:54.007Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T07:09:54.007Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69026f935c89999e8509e9dd"
+  },
+  "fromUserId": {
+    "$oid": "69026f795c89999e8509e9dc"
+  },
+  "toUserId": {
+    "$oid": "68df7688f5e301d0c4eab28d"
+  },
+  "status": "pending",
+  "createdAt": {
+    "$date": "2025-10-29T19:48:35.597Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-29T19:48:35.597Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69026fe25c89999e8509e9de"
+  },
+  "fromUserId": {
+    "$oid": "69026f795c89999e8509e9dc"
+  },
+  "toUserId": {
+    "$oid": "68def8964df6a503cba9ab33"
+  },
+  "status": "pending",
+  "createdAt": {
+    "$date": "2025-10-29T19:49:54.424Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-29T19:49:54.424Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690331816bc4b45289296be8"
+  },
+  "fromUserId": {
+    "$oid": "68df6a19f5e301d0c4eab28a"
+  },
+  "toUserId": {
+    "$oid": "671d9f2a0000000000000002"
+  },
+  "status": "pending",
+  "createdAt": {
+    "$date": "2025-10-30T09:36:01.195Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T09:36:01.195Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69037bd5ab8f708a1e9ef062"
+  },
+  "fromUserId": {
+    "$oid": "68df6a19f5e301d0c4eab28a"
+  },
+  "toUserId": {
+    "$oid": "68df7688f5e301d0c4eab28d"
+  },
+  "status": "pending",
+  "createdAt": {
+    "$date": "2025-10-30T14:53:09.097Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T14:53:09.097Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69037c89ab8f708a1e9ef064"
+  },
+  "fromUserId": {
+    "$oid": "69026f795c89999e8509e9dc"
+  },
+  "toUserId": {
+    "$oid": "68df6a19f5e301d0c4eab28a"
+  },
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2025-10-30T14:56:09.131Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T18:45:19.591Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6903a9cae9fa10796efc5edb"
+  },
+  "fromUserId": {
+    "$oid": "69026f795c89999e8509e9dc"
+  },
+  "toUserId": {
+    "$oid": "6902702d5c89999e8509e9df"
+  },
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2025-10-30T18:09:14.097Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T18:13:28.479Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6903aacc456200c5ffa64e99"
+  },
+  "fromUserId": {
+    "$oid": "6902702d5c89999e8509e9df"
+  },
+  "toUserId": {
+    "$oid": "6902fe2432e93ebbcc1f2af3"
+  },
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2025-10-30T18:13:32.263Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T18:15:16.799Z"
+  }
+}]

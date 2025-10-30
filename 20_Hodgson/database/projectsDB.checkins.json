@@ -1,0 +1,856 @@
+[{
+  "_id": {
+    "$oid": "671d9f2a0000000000000101"
+  },
+  "projectId": {
+    "$oid": "671d9f2a0000000000000011"
+  },
+  "userId": {
+    "$oid": "671d9f2a0000000000000001"
+  },
+  "message": "Set up COS 330 project skeleton and routes.",
+  "createdAt": {
+    "$date": "2025-10-02T09:10:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "671d9f2a0000000000000102"
+  },
+  "projectId": {
+    "$oid": "671d9f2a0000000000000012"
+  },
+  "userId": {
+    "$oid": "671d9f2a0000000000000002"
+  },
+  "message": "Connected MongoDB Atlas and verified collections.",
+  "createdAt": {
+    "$date": "2025-10-02T09:12:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "671d9f2a0000000000000103"
+  },
+  "projectId": {
+    "$oid": "671d9f2a0000000000000012"
+  },
+  "userId": {
+    "$oid": "671d9f2a0000000000000002"
+  },
+  "message": "Implemented basic search endpoint and tested.",
+  "createdAt": {
+    "$date": "2025-10-02T09:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69027a95e5aaf93f7ee877e8"
+  },
+  "projectId": {
+    "$oid": "690274b713ff3cbea4276b42"
+  },
+  "userId": {
+    "$oid": "69026f795c89999e8509e9dc"
+  },
+  "message": "Working on authentication",
+  "type": "check-out",
+  "version": "1.0.0",
+  "files": [],
+  "createdAt": {
+    "$date": "2025-10-29T20:35:33.448Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-29T20:35:33.448Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69027de06857b65e3f4bcd47"
+  },
+  "projectId": {
+    "$oid": "690274b713ff3cbea4276b42"
+  },
+  "userId": {
+    "$oid": "69026f795c89999e8509e9dc"
+  },
+  "message": "Added log in authentication",
+  "type": "check-in",
+  "version": "1.1.0",
+  "files": [],
+  "createdAt": {
+    "$date": "2025-10-29T20:49:36.022Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-29T20:49:36.022Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69027de76857b65e3f4bcd48"
+  },
+  "projectId": {
+    "$oid": "690274b713ff3cbea4276b42"
+  },
+  "userId": {
+    "$oid": "69026f795c89999e8509e9dc"
+  },
+  "message": "tweaks",
+  "type": "check-out",
+  "version": "1.1.0",
+  "files": [],
+  "createdAt": {
+    "$date": "2025-10-29T20:49:43.559Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-29T20:49:43.559Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69027e246857b65e3f4bcd49"
+  },
+  "projectId": {
+    "$oid": "690274b713ff3cbea4276b42"
+  },
+  "userId": {
+    "$oid": "69026f795c89999e8509e9dc"
+  },
+  "message": "Tweaked security question pipeline",
+  "type": "check-in",
+  "version": "1.1.1",
+  "files": [],
+  "createdAt": {
+    "$date": "2025-10-29T20:50:44.959Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-29T20:50:44.959Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69028016c257aa41dca7b3a6"
+  },
+  "projectId": {
+    "$oid": "690274b713ff3cbea4276b42"
+  },
+  "userId": {
+    "$oid": "6902702d5c89999e8509e9df"
+  },
+  "message": "Implementing uploads",
+  "type": "check-out",
+  "version": "1.1.1",
+  "files": [],
+  "createdAt": {
+    "$date": "2025-10-29T20:59:02.338Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-29T20:59:02.338Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6902808cc257aa41dca7b3a7"
+  },
+  "projectId": {
+    "$oid": "690274b713ff3cbea4276b42"
+  },
+  "userId": {
+    "$oid": "6902702d5c89999e8509e9df"
+  },
+  "message": "Uploads Implemented",
+  "type": "check-in",
+  "version": "1.2.0",
+  "files": [
+    {
+      "name": "Pamela-Adlon.webp",
+      "url": "/uploads/1761771660798_Pamela-Adlon.webp",
+      "path": "/app/backend/uploads/1761771660798_Pamela-Adlon.webp",
+      "size": 71310,
+      "downloadCount": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-29T21:01:00.919Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-29T21:01:00.919Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690280b9c257aa41dca7b3a8"
+  },
+  "projectId": {
+    "$oid": "690274b713ff3cbea4276b42"
+  },
+  "userId": {
+    "$oid": "6902702d5c89999e8509e9df"
+  },
+  "message": "Removing Incorrect Files",
+  "type": "check-out",
+  "version": "1.2.0",
+  "files": [
+    {
+      "name": "Pamela-Adlon.webp",
+      "url": "/uploads/1761771705365_Pamela-Adlon.webp",
+      "path": "/app/backend/uploads/1761771705365_Pamela-Adlon.webp",
+      "size": 71310,
+      "downloadCount": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-29T21:01:45.483Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-29T21:01:45.483Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690282175dfe7b38fab4a6d4"
+  },
+  "projectId": {
+    "$oid": "690274b713ff3cbea4276b42"
+  },
+  "userId": {
+    "$oid": "6902702d5c89999e8509e9df"
+  },
+  "message": "added home page css",
+  "type": "check-in",
+  "version": "1.2.0",
+  "files": [
+    {
+      "name": "home.css.txt",
+      "url": "/uploads/1761772055456_home.css.txt",
+      "path": "/app/backend/uploads/1761772055456_home.css.txt",
+      "size": 0,
+      "downloadCount": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-29T21:07:35.578Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-29T21:07:35.578Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6902821e5dfe7b38fab4a6d5"
+  },
+  "projectId": {
+    "$oid": "690274b713ff3cbea4276b42"
+  },
+  "userId": {
+    "$oid": "6902702d5c89999e8509e9df"
+  },
+  "message": "small css changes",
+  "type": "check-out",
+  "version": "1.2.0",
+  "files": [
+    {
+      "name": "home.css.txt",
+      "url": "/uploads/1761772062209_home.css.txt",
+      "path": "/app/backend/uploads/1761772062209_home.css.txt",
+      "size": 0,
+      "downloadCount": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-29T21:07:42.319Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-29T21:07:42.319Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690282485dfe7b38fab4a6d6"
+  },
+  "projectId": {
+    "$oid": "690274b713ff3cbea4276b42"
+  },
+  "userId": {
+    "$oid": "6902702d5c89999e8509e9df"
+  },
+  "message": "small css fix",
+  "type": "check-in",
+  "version": "1.2.0",
+  "files": [
+    {
+      "name": "home.css.txt",
+      "url": "/uploads/1761772104621_home.css.txt",
+      "path": "/app/backend/uploads/1761772104621_home.css.txt",
+      "size": 12,
+      "downloadCount": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-29T21:08:24.757Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-29T21:08:24.757Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690288fb082c11e6249c39da"
+  },
+  "projectId": {
+    "$oid": "690274b713ff3cbea4276b42"
+  },
+  "userId": {
+    "$oid": "6902702d5c89999e8509e9df"
+  },
+  "message": "",
+  "type": "check-out",
+  "version": "1.2.0",
+  "files": [],
+  "createdAt": {
+    "$date": "2025-10-29T21:36:59.520Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-29T21:36:59.520Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6902890e082c11e6249c39db"
+  },
+  "projectId": {
+    "$oid": "690274b713ff3cbea4276b42"
+  },
+  "userId": {
+    "$oid": "6902702d5c89999e8509e9df"
+  },
+  "message": "replace file",
+  "type": "check-in",
+  "version": "1.2.1",
+  "files": [
+    {
+      "name": "home.css.txt",
+      "url": "/uploads/1761773838855_home.css.txt",
+      "path": "uploads/1761773838855_home.css.txt",
+      "size": 12,
+      "downloadCount": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-29T21:37:18.978Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-29T21:37:18.978Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690289d2082c11e6249c39dd"
+  },
+  "projectId": {
+    "$oid": "690289bf082c11e6249c39dc"
+  },
+  "userId": {
+    "$oid": "6902702d5c89999e8509e9df"
+  },
+  "message": "want to add some css",
+  "type": "check-out",
+  "version": "1.0.0",
+  "files": [],
+  "createdAt": {
+    "$date": "2025-10-29T21:40:34.207Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-29T21:40:34.207Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690289e4082c11e6249c39de"
+  },
+  "projectId": {
+    "$oid": "690289bf082c11e6249c39dc"
+  },
+  "userId": {
+    "$oid": "6902702d5c89999e8509e9df"
+  },
+  "message": "home page css added",
+  "type": "check-in",
+  "version": "1.0.0",
+  "files": [
+    {
+      "name": "home.css (1).txt",
+      "url": "/uploads/1761774052305_home.css__1_.txt",
+      "path": "uploads/1761774052305_home.css__1_.txt",
+      "size": 12,
+      "downloadCount": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-29T21:40:52.417Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-29T21:40:52.417Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690289f8082c11e6249c39df"
+  },
+  "projectId": {
+    "$oid": "690289bf082c11e6249c39dc"
+  },
+  "userId": {
+    "$oid": "6902702d5c89999e8509e9df"
+  },
+  "message": "new css",
+  "type": "check-out",
+  "version": "1.0.0",
+  "files": [],
+  "createdAt": {
+    "$date": "2025-10-29T21:41:12.436Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-29T21:41:12.436Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69028a24082c11e6249c39e0"
+  },
+  "projectId": {
+    "$oid": "690289bf082c11e6249c39dc"
+  },
+  "userId": {
+    "$oid": "6902702d5c89999e8509e9df"
+  },
+  "message": "profile css added",
+  "type": "check-in",
+  "version": "1.0.1",
+  "files": [
+    {
+      "name": "profile.css.txt",
+      "url": "/uploads/1761774116694_profile.css.txt",
+      "path": "uploads/1761774116694_profile.css.txt",
+      "size": 13,
+      "downloadCount": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-29T21:41:56.800Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-29T21:41:56.800Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69030649f755ee3bccc89d89"
+  },
+  "projectId": {
+    "$oid": "69030341326c2acb419c32ca"
+  },
+  "userId": {
+    "$oid": "69026f795c89999e8509e9dc"
+  },
+  "message": "adding css",
+  "type": "check-out",
+  "version": "1.0.0",
+  "files": [],
+  "createdAt": {
+    "$date": "2025-10-30T06:31:37.497Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T06:31:37.497Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6903065af755ee3bccc89d8a"
+  },
+  "projectId": {
+    "$oid": "69030341326c2acb419c32ca"
+  },
+  "userId": {
+    "$oid": "69026f795c89999e8509e9dc"
+  },
+  "message": "Added home css",
+  "type": "check-in",
+  "version": "1.1.0",
+  "files": [
+    {
+      "name": "home.css.txt",
+      "url": "/uploads/1761805914736_home.css.txt",
+      "path": "uploads/1761805914736_home.css.txt",
+      "size": 12,
+      "downloadCount": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-30T06:31:54.856Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T06:31:54.856Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69030a98cd3883459cc6b879"
+  },
+  "projectId": {
+    "$oid": "690274b713ff3cbea4276b42"
+  },
+  "userId": {
+    "$oid": "6902702d5c89999e8509e9df"
+  },
+  "message": "Need to remove files",
+  "type": "check-out",
+  "version": "1.2.1",
+  "files": [],
+  "createdAt": {
+    "$date": "2025-10-30T06:50:00.533Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T06:50:00.533Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69030ab0cd3883459cc6b87a"
+  },
+  "projectId": {
+    "$oid": "690274b713ff3cbea4276b42"
+  },
+  "userId": {
+    "$oid": "6902702d5c89999e8509e9df"
+  },
+  "message": "Removed defunct files",
+  "type": "check-in",
+  "version": "1.2.2",
+  "files": [],
+  "createdAt": {
+    "$date": "2025-10-30T06:50:24.932Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T06:50:24.932Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69030ab9cd3883459cc6b87b"
+  },
+  "projectId": {
+    "$oid": "690274b713ff3cbea4276b42"
+  },
+  "userId": {
+    "$oid": "6902702d5c89999e8509e9df"
+  },
+  "message": "Adding files",
+  "type": "check-out",
+  "version": "1.2.2",
+  "files": [],
+  "createdAt": {
+    "$date": "2025-10-30T06:50:33.964Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T06:50:33.964Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69030acacd3883459cc6b87c"
+  },
+  "projectId": {
+    "$oid": "690274b713ff3cbea4276b42"
+  },
+  "userId": {
+    "$oid": "6902702d5c89999e8509e9df"
+  },
+  "message": "Added css files",
+  "type": "check-in",
+  "version": "1.2.3",
+  "files": [
+    {
+      "name": "home.css.txt",
+      "url": "/uploads/1761807049971_home.css.txt",
+      "path": "uploads/1761807049971_home.css.txt",
+      "size": 12,
+      "downloadCount": 0
+    },
+    {
+      "name": "profile.css.txt",
+      "url": "/uploads/1761807049971_profile.css.txt",
+      "path": "uploads/1761807049971_profile.css.txt",
+      "size": 13,
+      "downloadCount": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-30T06:50:50.139Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T06:50:50.139Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69030af5cd3883459cc6b87d"
+  },
+  "projectId": {
+    "$oid": "690289bf082c11e6249c39dc"
+  },
+  "userId": {
+    "$oid": "6902702d5c89999e8509e9df"
+  },
+  "message": "removing and replacing files",
+  "type": "check-out",
+  "version": "1.0.1",
+  "files": [],
+  "createdAt": {
+    "$date": "2025-10-30T06:51:33.919Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T06:51:33.919Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69030b06cd3883459cc6b87e"
+  },
+  "projectId": {
+    "$oid": "690289bf082c11e6249c39dc"
+  },
+  "userId": {
+    "$oid": "6902702d5c89999e8509e9df"
+  },
+  "message": "Removing and replacing files",
+  "type": "check-in",
+  "version": "1.0.1",
+  "files": [
+    {
+      "name": "home.css.txt",
+      "url": "/uploads/1761807110442_home.css.txt",
+      "path": "uploads/1761807110442_home.css.txt",
+      "size": 12,
+      "downloadCount": 0
+    },
+    {
+      "name": "profile.css.txt",
+      "url": "/uploads/1761807110442_profile.css.txt",
+      "path": "uploads/1761807110442_profile.css.txt",
+      "size": 13,
+      "downloadCount": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-30T06:51:50.542Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T06:51:50.542Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69030b47cd3883459cc6b87f"
+  },
+  "projectId": {
+    "$oid": "690274b713ff3cbea4276b42"
+  },
+  "userId": {
+    "$oid": "6902702d5c89999e8509e9df"
+  },
+  "message": "small css change",
+  "type": "check-out",
+  "version": "1.2.3",
+  "files": [],
+  "createdAt": {
+    "$date": "2025-10-30T06:52:55.844Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T06:52:55.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69030b56cd3883459cc6b880"
+  },
+  "projectId": {
+    "$oid": "690274b713ff3cbea4276b42"
+  },
+  "userId": {
+    "$oid": "6902702d5c89999e8509e9df"
+  },
+  "message": "small css change",
+  "type": "check-in",
+  "version": "1.2.4",
+  "files": [
+    {
+      "name": "home.css.txt",
+      "url": "/uploads/1761807190560_home.css.txt",
+      "path": "uploads/1761807190560_home.css.txt",
+      "size": 12,
+      "downloadCount": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-30T06:53:10.669Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T06:53:10.669Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6903a535efcf3ed75627e546"
+  },
+  "projectId": {
+    "$oid": "69030341326c2acb419c32ca"
+  },
+  "userId": {
+    "$oid": "69026f795c89999e8509e9dc"
+  },
+  "message": "test",
+  "type": "check-out",
+  "version": "1.1.0",
+  "files": [],
+  "createdAt": {
+    "$date": "2025-10-30T17:49:41.337Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T17:49:41.337Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6903a7a967615172ac380102"
+  },
+  "projectId": {
+    "$oid": "69030341326c2acb419c32ca"
+  },
+  "userId": {
+    "$oid": "69026f795c89999e8509e9dc"
+  },
+  "message": "Tested Functionality",
+  "type": "check-in",
+  "version": "1.1.1",
+  "files": [
+    {
+      "name": "profile2.css.txt",
+      "url": "/uploads/1761847208972_profile2.css.txt",
+      "path": "uploads/1761847208972_profile2.css.txt",
+      "size": 13,
+      "downloadCount": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-30T18:00:09.113Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T18:00:09.113Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6903a978e9fa10796efc5ed8"
+  },
+  "projectId": {
+    "$oid": "6903a978e9fa10796efc5ed7"
+  },
+  "userId": {
+    "$oid": "69026f795c89999e8509e9dc"
+  },
+  "message": "Created project \"Collectors\"",
+  "type": "project-created",
+  "version": "1.0.0",
+  "files": [],
+  "createdAt": {
+    "$date": "2025-10-30T18:07:52.790Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T18:07:52.790Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6903a98ae9fa10796efc5eda"
+  },
+  "projectId": {
+    "$oid": "6903a978e9fa10796efc5ed7"
+  },
+  "userId": {
+    "$oid": "69026f795c89999e8509e9dc"
+  },
+  "message": "Saved project \"Collectors\"",
+  "type": "saved-project",
+  "version": "1.0.0",
+  "files": [],
+  "createdAt": {
+    "$date": "2025-10-30T18:08:10.346Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T18:08:10.346Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6903b2543a9549418df7237c"
+  },
+  "projectId": {
+    "$oid": "690399900fbb7e40d482c05d"
+  },
+  "userId": {
+    "$oid": "68df6a19f5e301d0c4eab28a"
+  },
+  "message": "",
+  "type": "check-out",
+  "version": "1.0.0",
+  "files": [],
+  "createdAt": {
+    "$date": "2025-10-30T18:45:40.307Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T18:45:40.307Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6903cb8eee3f5435d7ce3180"
+  },
+  "projectId": {
+    "$oid": "6903cb8eee3f5435d7ce317f"
+  },
+  "userId": {
+    "$oid": "68df6a19f5e301d0c4eab28a"
+  },
+  "message": "Created project \"Project 1\"",
+  "type": "project-created",
+  "version": "1.0.0",
+  "files": [],
+  "createdAt": {
+    "$date": "2025-10-30T20:33:18.367Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T20:33:18.367Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6903ce288da1794839c231d8"
+  },
+  "projectId": {
+    "$oid": "6903cb8eee3f5435d7ce317f"
+  },
+  "userId": {
+    "$oid": "68df6a19f5e301d0c4eab28a"
+  },
+  "message": "",
+  "type": "check-out",
+  "version": "1.0.0",
+  "files": [],
+  "createdAt": {
+    "$date": "2025-10-30T20:44:24.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T20:44:24.774Z"
+  }
+}]
