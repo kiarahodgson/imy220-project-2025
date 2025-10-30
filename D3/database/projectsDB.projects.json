@@ -1,0 +1,455 @@
+[{
+  "_id": {
+    "$oid": "671d9f2a0000000000000011"
+  },
+  "ownerId": {
+    "$oid": "671d9f2a0000000000000001"
+  },
+  "name": "COS 330",
+  "description": "Course project workspace for COS 330.",
+  "imageUrl": "",
+  "hashtags": [
+    "cos330",
+    "software",
+    "team"
+  ],
+  "files": [],
+  "members": [
+    {
+      "$oid": "671d9f2a0000000000000001"
+    },
+    {
+      "$oid": "671d9f2a0000000000000002"
+    },
+    {
+      "$oid": "68dee5c66e8daa759a6e9776"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-02T09:05:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T16:36:39.412Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "671d9f2a0000000000000012"
+  },
+  "ownerId": {
+    "$oid": "671d9f2a0000000000000002"
+  },
+  "name": "COS 214",
+  "description": "Course project workspace for COS 214.",
+  "imageUrl": "",
+  "hashtags": [
+    "cos214",
+    "oop",
+    "java"
+  ],
+  "files": [],
+  "members": [
+    {
+      "$oid": "671d9f2a0000000000000002"
+    },
+    {
+      "$oid": "671d9f2a0000000000000001"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-02T09:06:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T09:06:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690274b713ff3cbea4276b42"
+  },
+  "ownerId": {
+    "$oid": "69026f795c89999e8509e9dc"
+  },
+  "name": "Social Experiment",
+  "description": "Social media app with a twist.",
+  "type": "Web App",
+  "imageUrl": "https://www.insidehighered.com/sites/default/files/styles/large/public/media/barber%20handshake.jpg?itok=wO8j-fdM",
+  "hashtags": [
+    "react  #webapp"
+  ],
+  "files": [
+    {
+      "name": "home.css.txt",
+      "url": "/uploads/1761807190560_home.css.txt",
+      "path": "uploads/1761807190560_home.css.txt",
+      "size": 12,
+      "downloadCount": 2
+    },
+    {
+      "name": "profile.css.txt",
+      "url": "/uploads/1761807049971_profile.css.txt",
+      "path": "uploads/1761807049971_profile.css.txt",
+      "size": 13,
+      "downloadCount": 1
+    }
+  ],
+  "members": [
+    {
+      "$oid": "69026f795c89999e8509e9dc"
+    },
+    {
+      "$oid": "6902702d5c89999e8509e9df"
+    }
+  ],
+  "status": "checked-in",
+  "version": "1.2.4",
+  "createdAt": {
+    "$date": "2025-10-29T20:10:31.457Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T16:38:12.424Z"
+  },
+  "lockedAt": null,
+  "lockedBy": null,
+  "downloadCount": 5
+},
+{
+  "_id": {
+    "$oid": "690289bf082c11e6249c39dc"
+  },
+  "ownerId": {
+    "$oid": "6902702d5c89999e8509e9df"
+  },
+  "name": "Grocery Delivery",
+  "description": "Grocery Delivery Business",
+  "type": "Web App",
+  "imageUrl": "",
+  "hashtags": [
+    "nodeJS"
+  ],
+  "files": [
+    {
+      "name": "home.css.txt",
+      "url": "/uploads/1761807110442_home.css.txt",
+      "path": "uploads/1761807110442_home.css.txt",
+      "size": 12,
+      "downloadCount": 3
+    },
+    {
+      "name": "profile.css.txt",
+      "url": "/uploads/1761807110442_profile.css.txt",
+      "path": "uploads/1761807110442_profile.css.txt",
+      "size": 13,
+      "downloadCount": 3
+    }
+  ],
+  "members": [
+    {
+      "$oid": "6902702d5c89999e8509e9df"
+    }
+  ],
+  "status": "checked-in",
+  "version": "1.0.1",
+  "downloadCount": 9,
+  "createdAt": {
+    "$date": "2025-10-29T21:40:15.026Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T06:52:10.079Z"
+  },
+  "lockedAt": null,
+  "lockedBy": null
+},
+{
+  "_id": {
+    "$oid": "69030341326c2acb419c32ca"
+  },
+  "ownerId": {
+    "$oid": "69026f795c89999e8509e9dc"
+  },
+  "name": "Coffee Blend",
+  "description": "Coffee ordering site that allows creating the exact blends you want.",
+  "type": "Web App",
+  "imageUrl": "/uploads/1761805788221_Roasted_coffee_beans.jpg",
+  "hashtags": [
+    "react #nodeJS"
+  ],
+  "files": [
+    {
+      "name": "home.css.txt",
+      "url": "/uploads/1761805914736_home.css.txt",
+      "path": "uploads/1761805914736_home.css.txt",
+      "size": 12,
+      "downloadCount": 1
+    },
+    {
+      "name": "profile2.css.txt",
+      "url": "/uploads/1761847208972_profile2.css.txt",
+      "path": "uploads/1761847208972_profile2.css.txt",
+      "size": 13,
+      "downloadCount": 0
+    }
+  ],
+  "members": [
+    {
+      "$oid": "69026f795c89999e8509e9dc"
+    }
+  ],
+  "status": "checked-in",
+  "version": "1.1.1",
+  "downloadCount": 1,
+  "createdAt": {
+    "$date": "2025-10-30T06:18:41.943Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T18:00:09.113Z"
+  },
+  "imagePath": "uploads/1761805788221_Roasted_coffee_beans.jpg",
+  "lockedAt": null,
+  "lockedBy": null
+},
+{
+  "_id": {
+    "$oid": "690331fe6bc4b45289296be9"
+  },
+  "ownerId": {
+    "$oid": "68df6a19f5e301d0c4eab28a"
+  },
+  "name": "My first project",
+  "description": "A version control web site",
+  "type": "Merge website",
+  "imageUrl": "/uploads/1761817086940_Image_2025-09-04_at_14.44.jpeg",
+  "hashtags": [
+    "react"
+  ],
+  "files": [],
+  "members": [
+    {
+      "$oid": "68df6a19f5e301d0c4eab28a"
+    }
+  ],
+  "status": "checked-in",
+  "version": "1.0.0",
+  "downloadCount": 0,
+  "createdAt": {
+    "$date": "2025-10-30T09:38:06.844Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T09:38:07.030Z"
+  },
+  "imagePath": "uploads/1761817086940_Image_2025-09-04_at_14.44.jpeg"
+},
+{
+  "_id": {
+    "$oid": "690332b16bc4b45289296beb"
+  },
+  "ownerId": {
+    "$oid": "68df6a19f5e301d0c4eab28a"
+  },
+  "name": "Project 2",
+  "description": "This is my next project",
+  "type": "",
+  "imageUrl": "",
+  "hashtags": [],
+  "files": [],
+  "members": [
+    {
+      "$oid": "68df6a19f5e301d0c4eab28a"
+    }
+  ],
+  "status": "checked-in",
+  "version": "1.0.0",
+  "downloadCount": 0,
+  "createdAt": {
+    "$date": "2025-10-30T09:41:05.168Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T09:41:05.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690332c16bc4b45289296bec"
+  },
+  "ownerId": {
+    "$oid": "68df6a19f5e301d0c4eab28a"
+  },
+  "name": "Project 3",
+  "description": "This is my next project",
+  "type": "",
+  "imageUrl": "",
+  "hashtags": [],
+  "files": [],
+  "members": [
+    {
+      "$oid": "68df6a19f5e301d0c4eab28a"
+    }
+  ],
+  "status": "checked-in",
+  "version": "1.0.0",
+  "downloadCount": 0,
+  "createdAt": {
+    "$date": "2025-10-30T09:41:21.303Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T09:41:21.303Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690332c66bc4b45289296bed"
+  },
+  "ownerId": {
+    "$oid": "68df6a19f5e301d0c4eab28a"
+  },
+  "name": "Project 4",
+  "description": "This is my next project",
+  "type": "",
+  "imageUrl": "",
+  "hashtags": [],
+  "files": [],
+  "members": [
+    {
+      "$oid": "68df6a19f5e301d0c4eab28a"
+    }
+  ],
+  "status": "checked-in",
+  "version": "1.0.0",
+  "downloadCount": 0,
+  "createdAt": {
+    "$date": "2025-10-30T09:41:26.569Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T09:41:26.569Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690332cc6bc4b45289296bee"
+  },
+  "ownerId": {
+    "$oid": "68df6a19f5e301d0c4eab28a"
+  },
+  "name": "Project 5",
+  "description": "This is my next project",
+  "type": "",
+  "imageUrl": "",
+  "hashtags": [],
+  "files": [],
+  "members": [
+    {
+      "$oid": "68df6a19f5e301d0c4eab28a"
+    }
+  ],
+  "status": "checked-in",
+  "version": "1.0.0",
+  "downloadCount": 0,
+  "createdAt": {
+    "$date": "2025-10-30T09:41:32.864Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T09:41:32.864Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690399900fbb7e40d482c05d"
+  },
+  "ownerId": {
+    "$oid": "68df6a19f5e301d0c4eab28a"
+  },
+  "name": "COS 330",
+  "description": "Cyber security checks",
+  "type": "Cyber security",
+  "imageUrl": "",
+  "hashtags": [],
+  "files": [],
+  "members": [
+    {
+      "$oid": "68df6a19f5e301d0c4eab28a"
+    }
+  ],
+  "status": "checked-out",
+  "version": "1.0.0",
+  "downloadCount": 0,
+  "createdAt": {
+    "$date": "2025-10-30T17:00:00.283Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T18:45:40.307Z"
+  },
+  "lockedAt": {
+    "$date": "2025-10-30T18:45:40.307Z"
+  },
+  "lockedBy": {
+    "$oid": "68df6a19f5e301d0c4eab28a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6903a978e9fa10796efc5ed7"
+  },
+  "ownerId": {
+    "$oid": "6902702d5c89999e8509e9df"
+  },
+  "name": "Collectors",
+  "description": "Likeminded collectors can share and search for items to add to their collections.",
+  "type": "Web App",
+  "imageUrl": "/uploads/1761847672975_lachenal-pottery-680aa1cc4675e.avif",
+  "hashtags": [
+    "react"
+  ],
+  "files": [],
+  "members": [
+    {
+      "$oid": "69026f795c89999e8509e9dc"
+    },
+    {
+      "$oid": "6902702d5c89999e8509e9df"
+    }
+  ],
+  "status": "checked-in",
+  "version": "1.0.0",
+  "downloadCount": 0,
+  "createdAt": {
+    "$date": "2025-10-30T18:07:52.790Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T18:15:47.076Z"
+  },
+  "imagePath": "uploads/1761847672975_lachenal-pottery-680aa1cc4675e.avif"
+},
+{
+  "_id": {
+    "$oid": "6903cb8eee3f5435d7ce317f"
+  },
+  "ownerId": {
+    "$oid": "68df6a19f5e301d0c4eab28a"
+  },
+  "name": "Project 1",
+  "description": "This is my first project",
+  "type": "",
+  "imageUrl": "",
+  "hashtags": [],
+  "files": [],
+  "members": [
+    {
+      "$oid": "68df6a19f5e301d0c4eab28a"
+    }
+  ],
+  "status": "checked-out",
+  "version": "1.0.0",
+  "downloadCount": 0,
+  "createdAt": {
+    "$date": "2025-10-30T20:33:18.367Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T20:44:24.774Z"
+  },
+  "lockedAt": {
+    "$date": "2025-10-30T20:44:24.774Z"
+  },
+  "lockedBy": {
+    "$oid": "68df6a19f5e301d0c4eab28a"
+  }
+}]

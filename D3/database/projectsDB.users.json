@@ -1,0 +1,275 @@
+[{
+  "_id": {
+    "$oid": "671d9f2a0000000000000001"
+  },
+  "name": "Kiara Hodgson",
+  "username": "kiara",
+  "email": "kiara@example.com",
+  "bio": "Student · Frontend & UX",
+  "avatarUrl": "",
+  "friends": [
+    {
+      "$oid": "671d9f2a0000000000000002"
+    },
+    {
+      "$oid": "68dee5c66e8daa759a6e9776"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-02T09:00:00.000Z"
+  },
+  "password": "test1234",
+  "updatedAt": {
+    "$date": "2025-10-02T22:11:53.821Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "671d9f2a0000000000000002"
+  },
+  "name": "Cade Robinson",
+  "username": "cade",
+  "email": "cade@example.com",
+  "bio": "Student · Backend & DevOps",
+  "avatarUrl": "",
+  "friends": [
+    {
+      "$oid": "671d9f2a0000000000000001"
+    },
+    {
+      "$oid": "68dee5c66e8daa759a6e9776"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-02T09:00:30.000Z"
+  },
+  "password": "test1234",
+  "updatedAt": {
+    "$date": "2025-10-02T22:09:18.561Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dee5c66e8daa759a6e9776"
+  },
+  "name": "tests1",
+  "username": "test",
+  "email": "test@test.com",
+  "password": "test1234",
+  "bio": "This is a test account. For testing purposes! ",
+  "avatarUrl": "",
+  "friends": [
+    {
+      "$oid": "671d9f2a0000000000000002"
+    },
+    {
+      "$oid": "671d9f2a0000000000000001"
+    },
+    {
+      "$oid": "68df6a19f5e301d0c4eab28a"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-02T20:51:18.330Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T09:36:12.531Z"
+  },
+  "roles": [
+    "user"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68def8964df6a503cba9ab33"
+  },
+  "name": "John",
+  "username": "Doe",
+  "email": "john@example.com",
+  "password": "test1234",
+  "bio": "",
+  "avatarUrl": "",
+  "friends": [],
+  "createdAt": {
+    "$date": "2025-10-02T22:11:34.969Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T22:11:34.969Z"
+  },
+  "roles": [
+    "user"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68df6a19f5e301d0c4eab28a"
+  },
+  "name": "Kiara",
+  "username": "testsigner",
+  "email": "testsign@test.com",
+  "password": "test1234",
+  "bio": "I like projects",
+  "avatarUrl": "/uploads/1761835576077_Image_2025-10-05_at_16.26.jpg",
+  "friends": [
+    {
+      "$oid": "68dee5c66e8daa759a6e9776"
+    },
+    {
+      "$oid": "69026f795c89999e8509e9dc"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-03T06:15:53.407Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T18:45:19.555Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "avatarPath": "uploads/1761835576077_Image_2025-10-05_at_16.26.jpg"
+},
+{
+  "_id": {
+    "$oid": "68df7688f5e301d0c4eab28d"
+  },
+  "name": "testing",
+  "username": "testing now",
+  "email": "test1@test.com",
+  "password": "test1234",
+  "bio": "",
+  "avatarUrl": "",
+  "friends": [],
+  "createdAt": {
+    "$date": "2025-10-03T07:08:56.918Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T07:08:56.918Z"
+  },
+  "roles": [
+    "user"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69026f795c89999e8509e9dc"
+  },
+  "name": "Bill",
+  "username": "Bill",
+  "email": "bill@gmail.com",
+  "password": "Bill1234",
+  "bio": "This is my bio.",
+  "avatarUrl": "",
+  "friends": [
+    {
+      "$oid": "6902702d5c89999e8509e9df"
+    },
+    {
+      "$oid": "68df6a19f5e301d0c4eab28a"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-29T19:48:09.838Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T18:45:19.511Z"
+  },
+  "roles": [
+    "user"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6902702d5c89999e8509e9df"
+  },
+  "name": "Jane",
+  "username": "Jane",
+  "email": "jane@gmail.com",
+  "password": "Jane1234",
+  "bio": "",
+  "avatarUrl": "",
+  "friends": [
+    {
+      "$oid": "69026f795c89999e8509e9dc"
+    },
+    {
+      "$oid": "6902fe2432e93ebbcc1f2af3"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-29T19:51:09.707Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T18:15:16.638Z"
+  },
+  "roles": [
+    "user"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6902fe2432e93ebbcc1f2af3"
+  },
+  "name": "Rob",
+  "username": "Rob",
+  "email": "rob@gmail.com",
+  "password": "Rob1234",
+  "bio": "",
+  "avatarUrl": "",
+  "friends": [
+    {
+      "$oid": "6902702d5c89999e8509e9df"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-30T05:56:52.158Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T18:15:16.711Z"
+  },
+  "roles": [
+    "user"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69037607d3fd6c7c8255c7b0"
+  },
+  "name": "Testuser",
+  "username": "Testuser",
+  "email": "test@gmail.com",
+  "password": "123456",
+  "bio": "",
+  "avatarUrl": "",
+  "friends": [],
+  "createdAt": {
+    "$date": "2025-10-30T14:28:23.326Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T14:28:23.326Z"
+  },
+  "roles": [
+    "user"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69037ccfab8f708a1e9ef065"
+  },
+  "name": "Sally",
+  "username": "Sally",
+  "email": "sally@gmail.com",
+  "password": "Sally1234",
+  "bio": "",
+  "avatarUrl": "",
+  "friends": [],
+  "createdAt": {
+    "$date": "2025-10-30T14:57:19.441Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-30T14:57:19.441Z"
+  },
+  "roles": [
+    "user"
+  ]
+}]
