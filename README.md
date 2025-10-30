@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/merge-logo.png" alt="Merge Logo" width="200"/>
+  <img src="assets/mergelogo.png" alt="Merge Logo" width="200"/>
 </div>
 
 # imy220-project-2025
