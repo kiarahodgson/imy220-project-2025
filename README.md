@@ -16,8 +16,10 @@ This guide explains how to build and run the app using Docker across different o
 ## Run the App with Docker
 
 ### 
+
+```
 1️⃣ Build the Docker image
-```bash
+bash
 docker build -t merge-app .
 
 2️⃣ Run the container
@@ -34,7 +36,7 @@ docker run --rm -p 8081:3000 -e ATLAS_URI="..." -v "%cd%\backend\uploads:/app/ba
 
 🌐 Access the App
 Once the container is running, open your browser and navigate to:
-http://localhost:8081 ```
+http://localhost:8081
 
 ---
 
