@@ -16,9 +16,11 @@ This guide explains how to build and run the app using Docker across different o
 
 ## 🐳 Run the App with Docker
 
-### 1️⃣ Build the Docker image
+### 
+1️⃣ Build the Docker image
 ```bash
 docker build -t merge-app .
+
 2️⃣ Run the container
 Replace '...' with your MongoDB Atlas connection string (ATLAS_URI) if necessary.
 
@@ -35,6 +37,7 @@ docker run --rm -p 8081:3000 -e ATLAS_URI="..." -v "%cd%\backend\uploads:/app/ba
 Once the container is running, open your browser and navigate to:
 👉 http://localhost:8081 ```
 
+---
 
 🧩 Notes
 Ensure Docker Desktop is running before executing the commands.
